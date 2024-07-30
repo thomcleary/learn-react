@@ -1,5 +1,5 @@
-# 🧠 ⚛ learn-react
+# 🧠 ⚛ learn-svelte
 
-| Folder | Resource                   |
-| ------ | -------------------------- |
-| nextjs | <https://nextjs.org/learn> |
+| Folder | Resource                                              |
+| ------ | ----------------------------------------------------- |
+| svelte | <https://learn.svelte.dev/tutorial/welcome-to-svelte> |
